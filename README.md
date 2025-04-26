@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2fd3f23c-7d81-4863-a765-4b45c86b917e)# Heart Disease Prediction Using Data Mining Techniques
+# Heart Disease Prediction Using Data Mining Techniques
 
 Project developed as part of the Data Warehouse and Machine Learning project for the Data Warehouse class at UFSC.
 
