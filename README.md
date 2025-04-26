@@ -21,9 +21,6 @@ This project aims to apply data mining techniques to predict the presence of hea
   - 900 total
   - 300 after preprocessing
 - **Features:** 13 independent variables + 1 target variable (`target`)
-![image](https://github.com/user-attachments/assets/96540299-4607-4ad6-a31e-0400fa13280c)
-
-- ![image](https://github.com/user-attachments/assets/5daf4f65-398e-4d3d-b601-fcb12724b581)
   <details>
   <summary>Analysis</summary>
   <img src="https://github.com/user-attachments/assets/5daf4f65-398e-4d3d-b601-fcb12724b581" alt="Heat Map"/>
