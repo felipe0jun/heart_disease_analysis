@@ -1,6 +1,6 @@
-# Heart Disease Prediction Using Data Mining Techniques
+![image](https://github.com/user-attachments/assets/2fd3f23c-7d81-4863-a765-4b45c86b917e)# Heart Disease Prediction Using Data Mining Techniques
 
-Project developed as part of the Data Warehouse and Machine Learning studies in the Control and Automation Engineering program at UFSC.
+Project developed as part of the Data Warehouse and Machine Learning project for the Data Warehouse class at UFSC.
 
 ## 📚 About the Project
 
@@ -9,7 +9,6 @@ This project aims to apply data mining techniques to predict the presence of hea
 ## 🚀 Technologies Used
 
 - **Python** — for data processing and machine learning model development
-- **Google Colab** — environment for running the scripts
 - **Pandas, Scikit-learn** — data manipulation and machine learning libraries
 - **Google BigQuery** — data storage (Back Room)
 - **Looker Studio** — dashboard creation (Front Room)
@@ -22,6 +21,14 @@ This project aims to apply data mining techniques to predict the presence of hea
   - 900 total
   - 300 after preprocessing
 - **Features:** 13 independent variables + 1 target variable (`target`)
+![image](https://github.com/user-attachments/assets/96540299-4607-4ad6-a31e-0400fa13280c)
+
+- ![image](https://github.com/user-attachments/assets/5daf4f65-398e-4d3d-b601-fcb12724b581)
+  <details>
+  <summary>Analysis</summary>
+  <img src="https://github.com/user-attachments/assets/5daf4f65-398e-4d3d-b601-fcb12724b581" alt="Heat Map"/>
+  <img src="https://github.com/user-attachments/assets/96540299-4607-4ad6-a31e-0400fa13280c" alt="Database Diagram"/>
+</details>
 
 ## 🔧 ETL Process
 
@@ -43,8 +50,16 @@ This project aims to apply data mining techniques to predict the presence of hea
   - Z-score normalization
 - **Results:**  
   - Training accuracy: 80%  
-  - Testing accuracy: 100%  
-  *(Overfitting detected due to small dataset size)*
+  - Testing accuracy: 100%
+- **Analysis:**
+  <details>
+  <summary>Analysis</summary>
+  <img src="https://github.com/user-attachments/assets/c7083b4a-54ce-4bcc-bdc2-6ccb51fe23cf" alt="Scores for Decision Tree Classifier"/>
+  <img src="https://github.com/user-attachments/assets/45f6576e-3f76-4175-92d4-69ea0b4bdcd5" alt="Learning Curve"/>
+  <img src="https://github.com/user-attachments/assets/cde64267-d8c6-44a4-9318-c7c6061e5e41" alt="Confusion Matrix"/>
+  <img src="https://github.com/user-attachments/assets/bcc848ba-810c-42fe-8610-cbde4772a3c0" alt="Attribute Importance in Decision"/>
+
+</details>
 
 ## 📊 Data Visualization
 
@@ -52,6 +67,7 @@ This project aims to apply data mining techniques to predict the presence of hea
   - Patient age range and gender analysis
   - Chest pain type analysis by age
   - Correlation between blood pressure, cholesterol levels, and diagnosis
+![image](https://github.com/user-attachments/assets/452607fe-219a-4bc5-8ce5-0f0d2d933f54)
 
 - [View the Dashboard here](https://lookerstudio.google.com/reporting/82d12627-2d06-4cc7-ada7-62d438c2d1c9)
 
